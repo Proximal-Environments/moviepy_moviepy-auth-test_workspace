@@ -1,0 +1,10 @@
+{
+    "name": "moviepy",
+    "displayName": "MoviePy",
+    "description": "Python video editing library",
+    "baseImage": "node",
+    "localSource": true,
+    "repository": {
+      "url": "file://local"
+    }
+  }
